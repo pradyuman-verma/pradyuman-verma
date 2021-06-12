@@ -70,9 +70,13 @@
 <br />
 
 ### Quick stats about me:
-| Github Stats | Top Languages |
+<!-- | Github Stats | Top Languages |
 | --- | --- |
-| ![my's github stats](https://github-readme-stats.vercel.app/api?username=pradyuman-verma&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![my's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradyuman-verma&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+| ![my's github stats](https://github-readme-stats.vercel.app/api?username=pradyuman-verma&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![my's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradyuman-verma&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) | -->
+
+| Top Languages |
+| --- |
+| ![my's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradyuman-verma&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
 ### Find me At:
 
