@@ -67,12 +67,12 @@
 <img align="left" alt="python2" src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' width="26px"/>
 <br />
 <br />
-
+<!-- 
 ### Quick stats about me:
 
 | Top Languages |
 | --- |
-| ![my's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradyuman-verma&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+| ![my's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradyuman-verma&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) | -->
 
 <!-- <img src="https://komarev.com/ghpvc/?username=pradyuman-verma&label=Profile%20views&color=0e75b6&style=flat" alt="pradyuman-verma" /> -->
 
