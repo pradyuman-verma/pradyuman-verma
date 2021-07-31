@@ -30,7 +30,7 @@
 
 -🏫 I'm currently a Third Year Undergraduate student at @IIT_ROORKEE
 
--🔭 I’m currently working on Backend Development
+-🔭 I’m currently working on blockchain opensource at summer of bitcoin'21
 
 -😐 I have a love/hate relationship with Programming
 
