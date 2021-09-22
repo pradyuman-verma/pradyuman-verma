@@ -34,7 +34,7 @@
 
 -😐 I have a love/hate relationship with Programming
 
--🌱 I’m currently learning MongoDB, React, Node.js
+-🌱 I’m currently learning Solidity, Ethereum.
 
 -<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My buddies include Data Structures and Algorithms
 
