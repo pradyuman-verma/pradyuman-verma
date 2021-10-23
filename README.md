@@ -5,7 +5,7 @@
  class WhoAmI:
  	user = 'Pradyuman Verma'
 		current_edu = "Undergraduate at IIT ROORKEE"
-		PGP_Key = '8682 ED6D C499 D155 9962 FA04 5FF1 5662 0D5B 1E14'
+		PGP_Key = '89C1 AACA 8780 D88F 6B62  3BF6 03CE E908 7D1D 5E4C'
 		hobbies = [
 				'Drawing',
                 'Photography',
