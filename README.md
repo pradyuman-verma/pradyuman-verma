@@ -31,11 +31,11 @@
 
 -🏫 I'm currently a Third Year Undergraduate student at @IIT_ROORKEE
 
--🔭 I’m currently working on blockchain opensource at summer of bitcoin'21
+-🔭 I’m currently working as a blockchain developer at @instadapp
 
 -😐 I have a love/hate relationship with Programming
 
--🌱 I’m currently learning Solidity, Ethereum.
+-🌱 I’m currently living in WEB3 space.
 
 -<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My buddies include Data Structures and Algorithms
 
