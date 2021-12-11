@@ -70,7 +70,7 @@
 <br />
 
 ### Quick stats about me:
-[![Pradyuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradyuman-verma)](https://github.com/anuraghazra/github-readme-stats)
+[![Pradyuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradyuman-verma&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
 | Top Languages |
