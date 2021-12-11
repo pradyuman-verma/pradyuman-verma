@@ -31,21 +31,22 @@
 
 -🏫 I'm currently a Third Year Undergraduate student at @IIT_ROORKEE
 
--🔭 I’m currently working as a blockchain developer at @instadapp
+-🔭 I’m working as a blockchain developer at @instadapp
 
+- Founder @Blockchain society IIT Roorkee.
+<!--
 -😐 I have a love/hate relationship with Programming
-
+-->
 -🌱 I’m currently living in WEB3 space.
-
--<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My buddies include Data Structures and Algorithms
 
 -💬 Ask me about anything, I am happy to help
 
-<!-- -😄 Pronouns: Coder, Leader and Kind Hearted -->
+<!-- -😄 Pronouns: Coder, Leader and Kind Hearted 
 -💡 I do participate in Hackathons
 
+-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My buddies include Data Structures and Algorithms
 -🎉 Fun-Fact: I ❤️ Photography and watch a lot Sci-Fi Movies🎬
-
+-->
 <br />
 
 ### Languages and Tools:
