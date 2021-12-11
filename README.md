@@ -8,38 +8,26 @@
 		PGP_Key = '89C1 AACA 8780 D88F 6B62  3BF6 03CE E908 7D1D 5E4C'
 		hobbies = [
 				'Drawing',
-                'Photography',
+                		'Photography',
 				'Watching Anime',
 				'Reading Sci-Fi Novels'
 				'Being up all Night chasing that ONE BUG...'
 			]
-	
-	def getCity():
-		return Ujjain_India()
-	
-	def Ambitions():
-        try:
-            learn_Sanskrit()
-            make_a_dron()
-            #assume 10 more here
-		except AmbitionsLimitExceeded: 
-            Reboot_Amibitions()
-            creating_new_Ambitions()
-	
+		
  ```
 ## About Me!! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
--🏫 I'm currently a Third Year Undergraduate student at @IIT_ROORKEE
+- 🏫 I'm currently a Third Year Undergraduate student at @IIT_ROORKEE
 
--🔭 I’m working as a blockchain developer at @instadapp
+- 🔭 I’m working as a blockchain developer at @instadapp
 
 - Founder @Blockchain society IIT Roorkee.
 <!--
 -😐 I have a love/hate relationship with Programming
 -->
--🌱 I’m currently living in WEB3 space.
+- 🌱 I’m currently living in WEB3 space.
 
--💬 Ask me about anything, I am happy to help
+- 💬 Ask me about anything, I am happy to help
 
 <!-- -😄 Pronouns: Coder, Leader and Kind Hearted 
 -💡 I do participate in Hackathons
