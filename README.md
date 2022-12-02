@@ -1,27 +1,26 @@
 # नमस्ते (Namaste), I'm Pradyuman 👋
 
- ## Who am I?
+<!--  ## Who am I?
  ```python
  class WhoAmI:
  	user = 'Pradyuman Verma'
 		current_edu = "Undergraduate at IIT ROORKEE"
 		PGP_Key = '89C1 AACA 8780 D88F 6B62  3BF6 03CE E908 7D1D 5E4C'
 		hobbies = [
-				'Drawing',
-                		'Photography',
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
-				'Being up all Night chasing that ONE BUG...'
+				'Being up all Night chasing that ONE BUG...',
+				'no can dosville babydoll'
 			]
 		
- ```
+ ``` -->
 ## About Me!! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-- 🏫 I'm currently a Third Year Undergraduate student at @IIT_ROORKEE
+- 🏫 I'm currently Final year Undergraduate student at @IIT_ROORKEE
 
-- 🔭 I’m working as a blockchain developer at @instadapp
+- I am a security research fellow at @yAcademyDAO
 
-- Founder @Blockchain society IIT Roorkee.
+- 🔭 Previously I worked as smart contract engineer at @instadapp
+
+- Creator @Blockchain society IIT Roorkee.
 <!--
 -😐 I have a love/hate relationship with Programming
 -->
