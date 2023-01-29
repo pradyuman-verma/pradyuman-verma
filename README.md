@@ -16,11 +16,14 @@
 
 - 🏫 I'm currently Final year Undergraduate student at @IIT_ROORKEE
 
-- I am a security research fellow at @yAcademyDAO
+- I am a security research resident at @yAcademyDAO
 
 - 🔭 Previously I worked as smart contract engineer at @instadapp
 
 - Creator @Blockchain society IIT Roorkee.
+
+- Summer of Bitcoin'21 Fellow, where I worked on @bcoin-org project.
+
 <!--
 -😐 I have a love/hate relationship with Programming
 -->
