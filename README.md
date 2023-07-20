@@ -2,7 +2,7 @@
 
 I'm Prady, a graduate of [IIT Roorkee](https://www.iitr.ac.in/). Here's a glimpse of my journey so far:
 
-- ⚙️ Building [Blockflow](blockflow.network)
+- ⚙️ Building [Blockflow](https://blockflow.network/)
 - 💼 Security Research Resident at [yAudits](https://yaudits.dev/)
 - 🔭 Former Smart Contract Engineer at [Instadapp](https://instadapp.io/)
 - 💡 Creator of [Blockchain Society IIT Roorkee](https://blocsoc.iitr.ac.in)
