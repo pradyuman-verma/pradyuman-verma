@@ -25,4 +25,3 @@ I'm Prady, a graduate of [IIT Roorkee](https://www.iitr.ac.in/). Here's a glimps
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pradyumnverma27@gmail.com)](mailto:pradyumnverma27@gmail.com)
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/pradyf/)](https://auth.geeksforgeeks.org/user/pradyf/)
 -->
--->
