@@ -1,3 +1,4 @@
+<!--
 ## About Me
 
 I'm Prady, a graduate of [IIT Roorkee](https://www.iitr.ac.in/). Here's a glimpse of my journey so far:
@@ -23,4 +24,5 @@ I'm Prady, a graduate of [IIT Roorkee](https://www.iitr.ac.in/). Here's a glimps
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/pradyumnverma27)](https://www.hackerrank.com/pradyumnverma27)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pradyumnverma27@gmail.com)](mailto:pradyumnverma27@gmail.com)
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/pradyf/)](https://auth.geeksforgeeks.org/user/pradyf/)
+-->
 -->
